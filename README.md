@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Simple-k-Means-Clustering-Python.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Simple-k-Means-Clustering-Python)
+
 ## Simple k-Means Clustering - Python
 Simple k-means clustering (centroid-based) using Python
 
